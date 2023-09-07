@@ -1,0 +1,30 @@
+body{
+    /* background-color: #817FCB; */
+    font-family: 'Inika', serif;
+}
+
+.header {
+    color: #817FCB;
+    font-size: 64px;
+    
+}
+.slack-name {
+    font-size: 40px;
+
+
+}
+.info-header {
+    color: #98AE00;
+    font-weight: 700;
+}
+
+.day, .time, .track, .githuburl {
+    font-size: 20px;
+    text-align: center;
+}
+
+.round-img {
+    border-radius: 30%;
+    width: 70%;
+
+}
